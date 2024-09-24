@@ -2,51 +2,51 @@
   {
     "name":"Mixed",
     "link":"https://server.radioonline365.pro/hls/mixed/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/mixed.webp"
   },
   {
     "name":"Light",
     "link":"https://server.radioonline365.pro/hls/light/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/light.webp"
   },
   {
     "name":"Pop",
     "link":"https://server.radioonline365.pro/hls/pop/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/pop.webp"
   },
   {
     "name":"Arabic",
     "link":"https://server.radioonline365.pro/hls/arabic/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/arabic.webp"
   },
   {
     "name":"Traditional",
     "link":"https://server.radioonline365.pro/hls/traditional/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/traditional.webp"
   },
   {
     "name":"Car",
     "link":"https://server.radioonline365.pro/hls/car/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/car.webp"
   },
   {
     "name":"Rock",
     "link":"https://server.radioonline365.pro/hls/rock/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/rock.webp"
   },
   {
     "name":"Dj Mix",
     "link":"https://server.radioonline365.pro/hls/dj-mix/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/dj-mix.webp"
   },
   {
     "name":"Turkish",
     "link":"https://server.radioonline365.pro/hls/turkish/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/turkish.webp"
   },
   {
     "name":"World Pop",
     "link":"https://server.radioonline365.pro/hls/world-pop/stream.m3u8",
-    "image":""
+    "image":"https://server.radioonline365.pro/hls/mixed/images/world-pop.webp"
   }
 ]
