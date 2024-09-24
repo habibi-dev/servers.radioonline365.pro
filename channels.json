@@ -40,6 +40,11 @@
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/dj-mix.webp"
   },
   {
+    "name":"Bakhtiari",
+    "link":"https://server.radioonline365.pro/hls/bakhtiari/stream.m3u8",
+    "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/bakhtiari.webp"
+  },
+  {
     "name":"Turkish",
     "link":"https://server.radioonline365.pro/hls/turkish/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/turkish.webp"
