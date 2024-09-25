@@ -1,62 +1,62 @@
 [
   {
     "name":"Mixed",
-    "link":"https://st1.v-dl.ir/hls/mixed/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/mixed/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/mixed.webp"
   },
   {
     "name":"Light",
-    "link":"https://st1.v-dl.ir/hls/light/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/light/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/light.webp"
   },
   {
     "name":"Pop",
-    "link":"https://st1.v-dl.ir/hls/pop/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/pop/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/pop.webp"
   },
   {
     "name":"Classic",
-    "link":"https://st1.v-dl.ir/hls/classic/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/classic/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/classic.webp"
   },
   {
     "name":"Arabic",
-    "link":"https://st1.v-dl.ir/hls/arabic/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/arabic/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/arabic.webp"
   },
   {
     "name":"Traditional",
-    "link":"https://st1.v-dl.ir/hls/traditional/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/traditional/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/traditional.webp"
   },
   {
     "name":"Car",
-    "link":"https://st1.v-dl.ir/hls/car/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/car/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/car.webp"
   },
   {
     "name":"Rock",
-    "link":"https://st1.v-dl.ir/hls/rock/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/rock/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/rock.webp"
   },
   {
     "name":"Dj Mix",
-    "link":"https://st1.v-dl.ir/hls/dj-mix/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/dj-mix/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/dj-mix.webp"
   },
   {
     "name":"Bakhtiari",
-    "link":"https://st1.v-dl.ir/hls/bakhtiari/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/bakhtiari/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/bakhtiari.webp"
   },
   {
     "name":"Turkish",
-    "link":"https://st1.v-dl.ir/hls/turkish/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/turkish/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/turkish.webp"
   },
   {
     "name":"World Pop",
-    "link":"https://st1.v-dl.ir/hls/world-pop/stream.m3u8",
+    "link":"https://stream1.ping365.ir/hls/world-pop/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/world-pop.webp"
   }
 ]
