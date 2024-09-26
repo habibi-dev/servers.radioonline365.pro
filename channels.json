@@ -40,6 +40,11 @@
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/rock.webp"
   },
   {
+    "name":"Dance",
+    "link":"https://stream1.ping365.ir/hls/dance/stream.m3u8",
+    "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/dance.webp"
+  },
+  {
     "name":"Dj Mix",
     "link":"https://stream1.ping365.ir/hls/dj-mix/stream.m3u8",
     "image":"https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/dj-mix.webp"
