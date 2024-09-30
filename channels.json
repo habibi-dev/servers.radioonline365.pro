@@ -1,72 +1,72 @@
 [
   {
+    "name": "New",
+    "link": "https://st1.music24.me/hls/new/stream.m3u8",
+    "image": "https://music24.me/images/new.webp"
+  },
+  {
     "name": "Mixed",
-    "link": "https://stream1.ping365.ir/hls/mixed/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/mixed.webp"
+    "link": "https://st1.music24.me/hls/mixed/stream.m3u8",
+    "image": "https://music24.me/images/mixed.webp"
   },
   {
     "name": "Pop",
-    "link": "https://stream1.ping365.ir/hls/pop/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/pop.webp"
-  },
-  {
-    "name": "New!",
-    "link": "https://stream1.ping365.ir/hls/new/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/new.webp"
+    "link": "https://st1.music24.me/hls/pop/stream.m3u8",
+    "image": "https://music24.me/images/pop.webp"
   },
   {
     "name": "Light",
-    "link": "https://stream1.ping365.ir/hls/light/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/light.webp"
+    "link": "https://st1.music24.me/hls/light/stream.m3u8",
+    "image": "https://music24.me/images/light.webp"
   },
   {
     "name": "Traditional",
-    "link": "https://stream1.ping365.ir/hls/traditional/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/traditional.webp"
+    "link": "https://st1.music24.me/hls/traditional/stream.m3u8",
+    "image": "https://music24.me/images/traditional.webp"
   },
   {
     "name": "Rock",
-    "link": "https://stream1.ping365.ir/hls/rock/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/rock.webp"
+    "link": "https://st1.music24.me/hls/rock/stream.m3u8",
+    "image": "https://music24.me/images/rock.webp"
   },
   {
     "name": "Classic",
-    "link": "https://stream1.ping365.ir/hls/classic/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/classic.webp"
+    "link": "https://st1.music24.me/hls/classic/stream.m3u8",
+    "image": "https://music24.me/images/classic.webp"
   },
   {
     "name": "Arabic",
-    "link": "https://stream1.ping365.ir/hls/arabic/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/arabic.webp"
+    "link": "https://st1.music24.me/hls/arabic/stream.m3u8",
+    "image": "https://music24.me/images/arabic.webp"
   },
   {
     "name": "Car",
-    "link": "https://stream1.ping365.ir/hls/car/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/car.webp"
+    "link": "https://st1.music24.me/hls/car/stream.m3u8",
+    "image": "https://music24.me/images/car.webp"
   },
   {
     "name": "Dance",
-    "link": "https://stream1.ping365.ir/hls/dance/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/dance.webp"
+    "link": "https://st1.music24.me/hls/dance/stream.m3u8",
+    "image": "https://music24.me/images/dance.webp"
   },
   {
     "name": "Dj Mix",
-    "link": "https://stream1.ping365.ir/hls/dj-mix/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/dj-mix.webp"
+    "link": "https://st1.music24.me/hls/dj-mix/stream.m3u8",
+    "image": "https://music24.me/images/dj-mix.webp"
   },
   {
     "name": "Bakhtiari",
-    "link": "https://stream1.ping365.ir/hls/bakhtiari/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/bakhtiari.webp"
+    "link": "https://st1.music24.me/hls/bakhtiari/stream.m3u8",
+    "image": "https://music24.me/images/bakhtiari.webp"
   },
   {
     "name": "Turkish",
-    "link": "https://stream1.ping365.ir/hls/turkish/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/turkish.webp"
+    "link": "https://st1.music24.me/hls/turkish/stream.m3u8",
+    "image": "https://music24.me/images/turkish.webp"
   },
   {
     "name": "World Pop",
-    "link": "https://stream1.ping365.ir/hls/world-pop/stream.m3u8",
-    "image": "https://raw.githubusercontent.com/habibi-dev/servers.radioonline365.pro/refs/heads/main/images/world-pop.webp"
+    "link": "https://st1.music24.me/hls/world-pop/stream.m3u8",
+    "image": "https://music24.me/images/world-pop.webp"
   }
 ]
